@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+   <!-- <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>-->
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="colorPrimaryVariant">#000000</color>
+    <color name="primaryColor">#FFFFFF</color>
+    <color name="primaryLightColor">#FFFFFF</color>
+    <color name="primaryDarkColor">#cccccc</color>
+    <color name="primaryTextColor">#000000</color>
+
+    <color name="colorSecondary">#ea4335</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <color name="colorError">#F57F17</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorOnSecondary">#1E1E1E</color>
+    <color name="colorSecondaryVariant">#ff7860</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+
+    <color name="gray_input_text">#979797</color>
+    <color name="gray_input_line">#E6E6E6</color>
+    <color name="gray_01">#8A8A8A</color>
+    <color name="gray_02">#666666</color>
+    <color name="gray_03">#F3F3F3</color>
+    <color name="gray_04">#ECECEC</color>
+    <color name="gray_05">#6C6C6C</color>
+    <color name="gray_06">#C3C3C3</color>
+    <color name="gray_07">#6C6C6C</color>
+    <color name="gray_08">#A4A4A4</color>
+    <color name="gray_09">#FAFAFA</color>
+
+
+    <color name="black_input_line">#6D6D6D</color>
+    <color name="black_01">#1A1A1A</color>
+    <color name="black_02">#242424</color>
+    <color name="black_03">#2E3041</color>
+    <color name="black_0">#000</color>
+    <color name="black">#000000</color>
+
+    <!--<color name="btn_color">#0068D2</color>-->
+    <color name="btn_color">#0048F1</color>
+    <color name="bg_color">#F0F0F0</color>
+    <color name="text_primary">#222223</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="mylza_primary">#142733</color>
+
+    <color name="multiple_image_select_primary">#2E7D32</color>
+    <color name="multiple_image_select_primaryLight">#C8E6C9</color>
+    <color name="multiple_image_select_accent">#4CAF50</color>
+
+    <color name="multiple_image_select_primaryText">#212121</color>
+    <color name="multiple_image_select_secondaryText">#727272</color>
+    <color name="multiple_image_select_divider">#B6B6B6</color>
+
+    <color name="multiple_image_select_albumTextBackground">#99FFFFFF</color>
+    <color name="multiple_image_select_imageSelectBackground">@color/colorAccent</color>
+
+    <color name="multiple_image_select_buttonText">#FFFFFF</color>
+    <color name="regAcceptTerms">#1770C0</color>
+    <color name="newcolor">#EF6A24</color>
+    <color name="theam_red_text">#EC3737</color>
+    <color name="rating_color">#FECC09</color>
+
+    <color name="indigo500">#3f51b5</color>
+    <color name="colorPrimaryDark2">#303F9F</color>
+    <color name="divider">#1f000000</color>
+    <!-- <color name="accent1">#ff2d6f</color>-->
+    <color name="accent">#0068D2</color>
+
+    <color name="colorGreen50">#802ED184</color>
+    <color name="colorProgress">#ffffbb33</color>
+    <color name="colorProgressDefault">#FFD7D7D7</color>
+
+    <color name="colorRed">#F44336</color>
+
+    <!-- <color name="green_200">#D5D5D5</color>
+     <color name="green_900">#0068D2</color>-->
+
+    <color name="green_200">#AED581</color>
+    <color name="green_900">#0068D2</color>
+    <color name="gray_14">#5C5C5C</color>
+    <color name="gray_base">#9F9F9F</color>
+
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_frame">#7F1FB3E2</color>
+    <color name="viewfinder_corner">#FF1FB3E2</color>
+    <color name="viewfinder_laser">#FF1FB3E2</color>
+    <color name="viewfinder_text_color">#FFC0C0C0</color>
+
+    <color name="zxl_capture_status_bar_color">#00000000</color>
+    <color name="zxl_capture_navigation_bar_color">#00000000</color>
+</resources>

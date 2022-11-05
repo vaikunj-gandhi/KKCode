@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryVariant"
+    android:orientation="vertical">
+
+  <androidx.appcompat.widget.AppCompatTextView
+      android:id="@+id/takePhotoTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/colorSurface"
+      android:padding="@dimen/_12sdp"
+      android:text="@string/take_photo"
+      android:fontFamily="@font/roboto_regular"
+      style="@style/TextAppearance.MaterialComponents.Body1"
+      android:textColor="@color/colorPrimaryVariant"/>
+
+  <androidx.appcompat.widget.AppCompatTextView
+      android:layout_width="match_parent"
+      android:layout_height="0.5dp"
+      android:background="@color/black_overlay"/>
+
+  <androidx.appcompat.widget.AppCompatTextView
+      android:id="@+id/chooseGalleryTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/colorSurface"
+      android:padding="@dimen/_12sdp"
+      android:text="@string/choose_from_gallery"
+      style="@style/TextAppearance.MaterialComponents.Body1"
+      android:fontFamily="@font/roboto_regular"
+      android:textColor="@color/colorPrimaryVariant"/>
+
+  <androidx.appcompat.widget.AppCompatTextView
+      android:layout_width="match_parent"
+      android:layout_height="0.5dp"
+      android:background="@color/black_overlay"/>
+
+  <androidx.appcompat.widget.AppCompatTextView
+      android:id="@+id/cancelTextView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/colorSurface"
+      android:padding="@dimen/_12sdp"
+      android:text="@string/cancel"
+      android:fontFamily="@font/roboto_regular"
+      style="@style/TextAppearance.MaterialComponents.Body1"
+      android:textColor="@color/colorPrimaryVariant"/>
+
+</LinearLayout>

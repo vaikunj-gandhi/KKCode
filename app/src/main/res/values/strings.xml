@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">KhushalPraticalTask</string>
+    <string name="wait">Please Wait...</string>
+    <string name="session_expire">Session expire.Please login again.</string>
+    <string name="error_crash_error_message">Oops! It seems something went wrong.Please try again.</string>
+    <string name="nointernettextview">No internet connection</string>
+    <string name="error_common_network">It seems there is no internet connection.</string>
+
+    <string name="album_view">Select photo album</string>
+    <string name="image_view">Tap to select images</string>
+    <string name="selected">selected</string>
+    <string name="limit_exceeded">You can not select more than %d images</string>
+    <string name="limit_exceeded1">You can not select more than %d image</string>
+    <string name="select">Select</string>
+    <string name="no_data">No data found</string>
+    <string name="retry">Retry</string>
+    <!--Request Permission-->
+
+    <string name="select_image">Select Image</string>
+    <string name="gallery">From Gallery</string>
+    <string name="camera">Take Picture</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="special_character_not_allowed">Special Character not allowed</string>
+
+    <string name="msg_empty_supplier_comapny_name">First name should not be blank</string>
+    <string name="msg_empty_supplier_last_name">Last name should not be blank</string>
+    <string name="msg_lth_supplier_comapny_name_2">First name must contain 2 characters</string>
+    <string name="msg_lth_supplier_last_name_2">Last name must contain 2 characters</string>
+    <string name="msg_empty_city_list">City list not found</string>
+    <string name="msg_emty_city">Please select City</string>
+    <string name="msg_emty_city1">City should not be blank</string>
+    <string name="msg_empty_email">Email Id should not be blank</string>
+    <string name="msg_valid_email">Enter valid Email Id</string>
+    <string name="msg_fail_to_register">Failed to register</string>
+    <string name="msg_fail_to_profile">Failed to profile</string>
+    <string name="msg_successfull_profile">Profile Updated Successfully</string>
+    <string name="msg_successfully_to_register">Vehicle details added successfully.</string>
+    <string name="kyc_detail">KYC Detail</string>
+    <string name="msg_logout">Are you sure want to logout from this device?</string>
+    <string name="msg_logout_suuccedd">You have logged out successfully</string>
+    <string name="msg_logout_fail">Failed to logout</string>
+    <string name="mag_exit">Are you sure you want exit?. If press yes It may loss your filed data.</string>
+    <string name="kyc_msg">Fill the KYC Detail and send your application to process further</string>
+    <string name="upload_doc_msg">Are you sure to send your \n Application?</string>
+    <string name="msg_empty_mobile">Mobile Number should not be blank</string>
+    <string name="msg_lth_mobile_10">Mobile Number must contain 10 digits</string>
+    <string name="msg_empty_password">Password should not be blank</string>
+    <string name="msg_lth_password_6">Password must contain 6 characters</string>
+    <string name="msg_fail_to_login">Failed to login, Please try later</string>
+    <string name="msg_otp_sent">OTP sent on your registered mobile number</string>
+    <string name="msg_fail_to_send_otp">We cannot sent OTP on your mobile, Please try later</string>
+
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="re_enter_new_password">Re-enter new passowrd</string>
+    <string name="space_not_allowed">Space not allowed</string>
+    <string name="msg_empty_enterpassword">Enter new password should not be blank</string>
+    <string name="msg_lth_enterpassword">Enter new password must contain 6 characters</string>
+    <string name="msg_empty_re_enterpassword">Re-enter password should not be blank</string>
+    <string name="msg_lth_re_enterpassword">Re-enter password must contain 6 characters</string>
+    <string name="msg_not_match">Re-enter password not match with Password</string>
+    <string name="msg_not_match_">Re-enter New Password not match with New Password</string>
+    <string name="msg_fail_reset_password">Failed to reset password</string>
+
+    <string name="paste_from">PASTE FROM SMS</string>
+    <string name="please_enter_4_digit">Please, enter 4-digit code we sent on your \nnumber as SMS</string>
+    <string name="resend">Resend</string>
+    <string name="submit">Submit</string>
+    <string name="msg_empty_otp">Please enter OTP</string>
+    <string name="msg_valid_otp">OTP must contain 4 digits</string>
+    <string name="succes_otp_verification">OTP verification successful</string>
+    <string name="msg_fail_otp_verification">Failed to verify OTP</string>
+    <string name="msg_success_sent_otp">New OTP sent on your mobile</string>
+    <string name="msg_fail_send_otp">Failed to send OTP</string>
+
+    <string name="re_new_password">Re-enter New Password</string>
+    <string name="msg_empty_old_password">Old Password should not be blank</string>
+    <string name="msg_lth_old_password">Old Password must contain 6 characters</string>
+    <string name="msg_empty_new_password">New Password should not be blank</string>
+    <string name="msg_lth_new_password">New Password must contain 6 characters</string>
+    <string name="msg_empty_re_new_passwod">Re-enter New Password should not be blank</string>
+    <string name="msg_lth_re_new_passwod">Re-enter New Password must contain 6 characters</string>
+    <string name="msg_success_change_password">Password changed successfully</string>
+    <string name="msg_fail_change_password">Failed to change password</string>
+    <string name="i_have_vehicle">I have vehicle</string>
+    <string name="register_thorough_operatior">Register Through\nOperator</string>
+    <string name="next">Next</string>
+    <string name="forgot_password1">Forgot Password</string>
+    <string name="please_enter_your_email_address_to_search_for_your_account">Enter your registered Email ID or Mobile Number to reset your password</string>
+    <string name="emaillogin">Email</string>
+    <string name="emaillogin1">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="find_all_pod_in_one_place_by_signing_the_apps_quick_easily"><![CDATA[Find all KUBEs in one place by signing\nthe apps quick & easily.]]></string>
+    <string name="pwd2">Password</string>
+    <string name="forgotpwd"><u>Forgot?</u></string>
+    <string name="enter_and_confirm_new_passwrod_in_order_to_reset_your_password">Enter and confirm New Passwrod in order to reset your password</string>
+    <string name="sumbit">Submit</string>
+    <string name="new_password">New Password</string>
+    <string name="enter_password">Enter New Password</string>
+    <string name="verify_password">Confirm New Password</string>
+    <string name="retype_your_password">Enter confirm New Password</string>
+    <string name="Register">Register</string>
+    <string name="find_all_pod_in_one_place_by_registoering_into_the_apps_quick_easily"><![CDATA[Find all KUBEs in one place by registering into the app quick & easily.]]></string>
+    <string name="first_Name">First Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="email_address">Email</string>
+    <string name="enter_email_address">Enter Email</string>
+    <string name="mobile_number">Phone Number</string>
+    <string name="enter_mobile_number">Enter Phone Number</string>
+    <string name="gender">Gender </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="select_date_of_birth">Select Date of Birth</string>
+    <string name="pwd">Enter Password</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="search_for_location">Searching for location</string>
+    <string name="don_t_have_and_accountNew1">Don\'t have an account?</string>
+    <string name="signup1">Sign Up</string>
+    <string name="accept_terms">Agree with Terms &amp; Conditions</string>
+    <string name="accept_Privacy_Poilicy">Privacy Policy</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="error_something">Please try refreshing this screen</string>
+    <string name="existing_user">Already have an account?</string>
+    <string name="log_in">Login</string>
+    <string name="enter_verification_code">OTP Verification</string>
+    <string name="resendOTP">Resend</string>
+    <string name="OTPV">Please Enter OTP Code</string>
+
+    <string name="empty_directory">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="choose_file">Select a file</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+
+
+    <string name="msg_location_permission">Without this permission the app is unable to access you location and auto fill addresses while add address. You can grant them in app settings.</string>
+    <string name="msg_picture_access_image">Without this permission the app is unable to access your picture from your phone. You can grant them in app settings.</string>
+    <string name="msg_picture_access_camera">Without this permission the app is unable to access your phone camera. You can grant them in app settings.</string>
+    <string name="select_another_pic">Select another Pic</string>
+    <string name="logout">Logout</string>
+
+    <string name="save">Save</string>
+
+
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_gallery">Choose From Gallery</string>
+    <string name="sorry_we_re_not_providing_this_service_in_this_area">Sorry, we\'re not providing this service in this area.\n Please come back later</string>
+
+
+    <string name="lastName">Last Name</string>
+    <string name="Cancel">Cancel</string>
+</resources>

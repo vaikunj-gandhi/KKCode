@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+    <!--android:background="@drawable/splash"-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/_5sdp"
+            android:text="Zorior Technologies Pvt.\n Khushal Practical task"
+            style="@style/TextAppearance.AppCompat.Headline"
+            android:textColor="@color/btn_color"
+            android:textStyle="bold"/>
+        <!--android:src="@drawable/logo_splash_dummy"-->
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvVersionCodeName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:text="V.1.0" />
+
+
+    </FrameLayout>
+
+
+</LinearLayout>
